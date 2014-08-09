@@ -1,0 +1,60 @@
+//BioLayout Express 3D Version 3.2  Layout File
+a	e				
+a	g				
+a	i				
+a	k
+a	m
+a	o
+c	e				
+c	g				
+c	i				
+c	k
+c	m
+c	o				
+e	i				
+e	k
+e	m
+e	o				
+g	i				
+g	k
+g	m
+g	o				
+i	m
+i	o				
+k	m
+k	o				
+				
+
+//NODECOORD	a	250	0	0	0
+//NODECOORD	c	-250	0	0	0
+//NODECOORD	e	0	250	0	0
+//NODECOORD	g	0	-250	0	0
+//NODECOORD	i	0	0	250	0
+//NODECOORD	k	0	0	-250	0
+//NODECOORD	m	0	0	0	250
+//NODECOORD	o	0	0	0	-250
+
+//NODESIZE	a	50
+//NODESIZE	c	50
+//NODESIZE	e	50
+//NODESIZE	g	50
+//NODESIZE	i	50
+//NODESIZE	k	50
+//NODESIZE	m	50
+//NODESIZE	o	50
+
+//NODECLASS	a	red	cube
+//NODECLASS	c	red	cube
+//NODECLASS	e	green	cube
+//NODECLASS	g	green	cube
+//NODECLASS	i	blue	cube
+//NODECLASS	k	blue	cube
+//NODECLASS	m	yellow	cube
+//NODECLASS	o	yellow	cube
+
+//CURRENTCLASSSET	cube
+//EDGECOLOR	#000000
+//NODECLASSCOLOR	red	cube	#ff0000
+//NODECLASSCOLOR	green	cube	#00ff00
+//NODECLASSCOLOR	blue	cube	#0000ff
+//NODECLASSCOLOR	yellow	cube	#ffff00
